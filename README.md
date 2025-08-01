@@ -25,9 +25,10 @@ A passionate <b>Backend Developer</b> with 3+ years of experience in building sc
 
 <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" height="40" alt="Postman" />
-  <img src="https://raw.githubusercontent.com/alfiya-ai/readme-assets/main/swagger.png" height="40" alt="Swagger" />
-  <img src="https://avatars.githubusercontent.com/u/301879?s=200&v=4" height="40" alt="Scalar Docs" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/swagger.svg" height="40" alt="Swagger" />
+  <img src="https://avatars.githubusercontent.com/u/301879?s=200&v=4" height="40" alt="Scalar" />
 </p>
+
 ---
 
 ### 📬 Let's Connect
