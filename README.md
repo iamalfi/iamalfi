@@ -21,12 +21,12 @@ A passionate <b>Backend Developer</b> with 3+ years of experience in building sc
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,ts,js,go,docker,postgres,mongodb,prisma,redis,aws,linux,git,github,vscode,postman,html,css" alt="My Skills" />
 </p>
 
-#### 🧩 Bonus Tools
+#### 🧩 API & Docs Tools
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,nginx" alt="Infra Tools" />
-  <img src="https://img.icons8.com/color/48/000000/stripe.png" height="32" alt="Stripe"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/postman.png" height="32" alt="Postman"/>
-  <img src="https://img.icons8.com/fluency/48/swagger.png" height="32" alt="Swagger"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" height="40" alt="Postman" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/swagger.svg" height="40" alt="Swagger" />
+  <img src="https://avatars.githubusercontent.com/u/301879?s=200&v=4" height="40" alt="Scalar" />
 </p>
 
 ---
